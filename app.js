@@ -27,4 +27,4 @@ app.post('/', async (req, res) => {
   res.send(response).end()
 })
 
-app.listen(3000, () => console.log('APIBUDDY listening on port 3000!'))
+app.listen(9967, () => console.log('APIBUDDY listening on port 9967!'))
